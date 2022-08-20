@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyDailyTask/static/css/main.fd56edfe.css",
+    "main.js": "/MyDailyTask/static/js/main.3d5e8615.js",
+    "index.html": "/MyDailyTask/index.html",
+    "main.fd56edfe.css.map": "/MyDailyTask/static/css/main.fd56edfe.css.map",
+    "main.3d5e8615.js.map": "/MyDailyTask/static/js/main.3d5e8615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd56edfe.css",
+    "static/js/main.3d5e8615.js"
+  ]
+}
